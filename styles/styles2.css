@@ -31,8 +31,8 @@ h1 {font-family:Helvetica, Futura, Arial; font-size:14px; }
 
 #ul_header {font-family:Helvetica, Futura, Arial, sans-serif; font-size 14px; text-transform:lowercase; 
 
-em {font-family:Helvetica, Futura, Arial, sans-serif; font-size:12px}
-
+	ul {list-style-type: none; }
+	
 DIV#rowOne {width: 95%; height: auto; margin-left: 20px; }
 
 DIV#rowTwo {width: 95%; text-align:center; margin-top: 15px; margin-left: 20px; }
