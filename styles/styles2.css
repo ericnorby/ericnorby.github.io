@@ -8,7 +8,7 @@ p {
 	font-family:Helvetica, Futura, Arial; color:#000000; font-size: 12px; 
 	}
 	
-dl {font-family:Helvetica, Futura, Arial; color:#000000; font-size: 12px; 
+dl {font-family:Helvetica, Futura, Arial; color:#000000; font-size: 12px; text-align: left;
 	}
 
 a:link {color:#000000; text-decoration: none;
@@ -18,27 +18,26 @@ a:visited {color:#000000;text-decoration: none;
 a:hover {background-color:#000000; color:#FFFFFF;text-decoration: none;
 	}
 a:active {color:#000000; text-decoration: none;}
+
 h2, h3, h4, h5 { font-family:Helvetica, Futura, Arial; font-size:12px; text-transform:lowercase; font-weight:500;
 
 }
 
 h1 {font-family:Helvetica, Futura, Arial; font-size:14px; }
 
-dl {text-align: left;  }
-
 .copyright {float:right; margin-right:20px; }
 
 .click {display: none; }
 
+#ul_header {font-family:Helvetica, Futura, Arial, sans-serif; font-size 14px; text-transform:lowercase; 
 
+em {font-family:Helvetica, Futura, Arial, sans-serif; font-size:12px}
 
 DIV#rowOne {width: 95%; height: auto; margin-left: 20px; }
 
 DIV#rowTwo {width: 95%; text-align:center; margin-top: 15px; margin-left: 20px; }
 
 DIV#ectrowTwo {width: 95%; margin-top: 15px; margin-left: 20px; overflow-x:scroll; white-space: nowrap; overflow-y: none; } 
-
-
 
 }
 .statement {width:50%; text-align: left; text-transform: none; word-spacing: 5px; }
