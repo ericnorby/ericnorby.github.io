@@ -12,9 +12,7 @@ h2, h3, h4, h5 { font-family:Helvetica, Futura, Arial; font-size:12px; text-tran
 h1 {font-family:Helvetica, Futura, Arial; font-size:14px; }
 .copyright {float:right; margin-right:20px; }
 .click {display: none; }
-#ul_header {font-family:Helvetica, Futura, Arial, sans-serif; font-size 14px; text-transform:lowercase; 
-ul {list-style: none; font-family:Helvetica, Futura, Arial; color:#000000; font-size: 12px;  }
-li {list-style: none; font-family:Helvetica, Futura, Arial, sans-serif; color:#000000; font-size: 12px; }
+#ul_header {font-family:Helvetica, Futura, Arial, sans-serif; font-size 14px; text-transform:lowercase; margin-left: 30px; margin-top: 30px; }
 DIV#rowOne {width: 95%; height: auto; margin-left: 20px; }
 DIV#rowTwo {width: 95%; text-align:center; margin-top: 15px; margin-left: 20px; }
 DIV#ectrowTwo {width: 95%; margin-top: 15px; margin-left: 20px; overflow-x:scroll; white-space: nowrap; overflow-y: none; } 
