@@ -19,4 +19,4 @@ DIV#rowTwo {width: 95%; text-align:center; margin-top: 15px; margin-left: 20px; 
 DIV#ectrowTwo {width: 95%; margin-top: 15px; margin-left: 20px; overflow-x:scroll; white-space: nowrap; overflow-y: none; } 
 .statement {width:50%; text-align: left; text-transform: none; word-spacing: 5px; }
 DIV#rowThree {width: 95%; height: 100px; position: fixed; clear: both; position:absolute; bottom:0; left:0; background-color:white; overflow-x:scroll ; overflow-y: hidden; white-space: nowrap;  margin-left: 20px; }
-iframe {border:none; width=100%; }
+iframe {border:none; width:100%; }
